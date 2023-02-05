@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EXMPL11/1.0.0": {
+        "runtime": {
+          "EXMPL11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EXMPL11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
